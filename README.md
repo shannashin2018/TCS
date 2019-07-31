@@ -226,7 +226,7 @@ To build, change to a directory where this file is located, and run `make`. The 
 ### On Windows
 Dependencies: MSVC 2013 or later, CMake 2.8.6 or later, and Boost 1.55. You may download them from:
 
-* http://www.microsoft.com/
+* https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15&page=inlineinstall
 * http://www.cmake.org/
 * http://www.boost.org/
 
